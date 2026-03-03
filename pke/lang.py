@@ -36,6 +36,7 @@ langcodes = {
     "ru": "russian",
     "es": "spanish",
     "sv": "swedish",
+    "zh": "chinese",
 }
 
 stopwords = {}
